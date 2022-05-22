@@ -1,4 +1,6 @@
-#h1 Motivo del capítulo:
+# The Killer Comet
+## H1 Motivo del capítulo:
+
 El motivo de este capítulo es generar el video de recepción para
 la audiencia. Aquí la idea debe ser que el visitante tienda
 inquietarse, o a lo menos sentirse curios@ de lo que pueda
@@ -12,7 +14,7 @@ pensamiento que es consciente de la pequeñez, y la potencia que
 pueden tener estos mecanismos para darnos libertades como
 humanidad.
 
-#h2 EXT - ENTRADA DE LA CASA
+### EXT - ENTRADA DE LA CASA
 DV está sentado en la puerta de entrada de la casa - quizás con
 los animales dando vueltas de manera improvisada. Su ropa es
 casual y puede ser ideal que haya viento para que así haya juego
