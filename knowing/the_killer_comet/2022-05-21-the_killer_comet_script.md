@@ -11,6 +11,7 @@ frutos de su práctica son evidencia clara de la humildad del
 pensamiento que es consciente de la pequeñez, y la potencia que
 pueden tener estos mecanismos para darnos libertades como
 humanidad.
+
 #h2 EXT - ENTRADA DE LA CASA
 DV está sentado en la puerta de entrada de la casa - quizás con
 los animales dando vueltas de manera improvisada. Su ropa es
