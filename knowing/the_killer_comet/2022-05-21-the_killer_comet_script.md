@@ -1,5 +1,5 @@
 # The Killer Comet
-## H1 Motivo del capítulo:
+## Motivo del capítulo:
 
 El motivo de este capítulo es generar el video de recepción para
 la audiencia. Aquí la idea debe ser que el visitante tienda
