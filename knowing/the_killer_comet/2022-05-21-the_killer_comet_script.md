@@ -1,9 +1,9 @@
 # The Killer Comet
-## Motivo del capítulo
+## Motivos del capítulo
 
-1. Objetivo 1
-2. Objetivo 2
-3. Objetivo 2
+1. Reconocer el origen histórico de algunas de nuestras tendencias a buscar explicaciones a través de mitos.
+2. Reconocer la bifurcación intelectual que se produce al momento en que Halley logra predecir un evento como la aparición de un cometa.
+3. Comparar la experiencia de la aparición del cometa en 1910 con la justificación mítica previo a la predicción de Halley y los avances de la ciencia.
 
 ## Script del video
 
