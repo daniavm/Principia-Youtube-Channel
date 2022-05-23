@@ -28,4 +28,3 @@ pondré algo de texto aquí no más para ver como va quedando
 - https://allthatsinteresting.com/halleys-comet-1910
 - https://www.space.com/19878-halleys-comet.html
 - https://adsabs.harvard.edu/full/1991QJRAS..32..113C
--
